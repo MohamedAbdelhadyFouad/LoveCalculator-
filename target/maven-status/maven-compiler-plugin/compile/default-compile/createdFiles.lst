@@ -1,0 +1,8 @@
+com\configurationPackage\Setup\loveCalcConfiguration.class
+com\loveCalc\Dto\api\registerInfo.class
+com\loveCalc\Dto\api\communicationDto.class
+com\loveCalc\Dto\api\info.class
+com\configurationPackage\Setup\LoveCalcDispatcherServlet.class
+com\loveCalc\Dto\api\Phone.class
+com\loveCalc_Controllers\LCapplication.class
+com\loveCalc_Controllers\Test.class
